@@ -33,8 +33,6 @@ public class Q12_2 {
     }
 
     private void printNumber(char[] num) {
-
-
         System.err.println(num);
     }
 
