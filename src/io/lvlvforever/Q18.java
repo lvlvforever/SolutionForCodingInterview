@@ -25,8 +25,6 @@ public class Q18 {
             }
         }
         return hasSubtreeCore(root1.left, root2) || hasSubtreeCore(root1.right, root2);
-
-
     }
 
 
