@@ -9,7 +9,7 @@ public class Main {
         System.err.println(matrix[0].length);
 
         System.err.println("hello world");
-
+        System.err.println("fdfd");
 
     }
 }
