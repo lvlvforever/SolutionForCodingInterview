@@ -15,6 +15,7 @@ public class FindMissingPositiveNumber$41 {
         System.err.println(obj.firstMissingPositive2(nums));
     }
 
+
     public int firstMissingPositive(int[] nums) {
         BitSet set = new BitSet(2);
         if (nums == null || nums.length < 1) {
