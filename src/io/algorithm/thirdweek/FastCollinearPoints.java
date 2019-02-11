@@ -61,4 +61,14 @@ public class FastCollinearPoints {
     public LineSegment[] segments() {
         return null;
     }
+
+    private boolean judgeSameOne(NestedLineSegment o1, NestedLineSegment o2) {
+
+
+    }
+
+    private class NestedLineSegment {
+
+
+    }
 }
