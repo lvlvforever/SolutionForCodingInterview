@@ -11,8 +11,10 @@ public class FindMissingPositiveNumber$41 {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3};
         FindMissingPositiveNumber$41 obj = new FindMissingPositiveNumber$41();
+
         System.err.println(obj.firstMissingPositive2(nums));
     }
+
 
     public int firstMissingPositive(int[] nums) {
         BitSet set = new BitSet(2);
